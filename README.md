@@ -71,3 +71,4 @@ current flows through its emitter generating the voltage across the resistance c
 <img width="1046" height="709" alt="image" src="https://github.com/user-attachments/assets/411e7153-5154-4ec6-82ad-97769a82bbe7" />
 
 ## RESULT
+The frequency response of the analog fiber optic link was experimentally studied by varying the input signal frequency and measuring the corresponding output amplitude.
