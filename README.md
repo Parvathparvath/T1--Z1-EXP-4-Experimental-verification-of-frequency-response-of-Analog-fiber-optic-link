@@ -62,6 +62,9 @@ current flows through its emitter generating the voltage across the resistance c
 -	Observe the detected signal at post ANALOG OUT on oscilloscope.
 
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/599d4fcc-b1e2-45fb-a98d-5f833cade038" />
+## BLOCK DIAGRAM
+
+![Screenshot_20260325_095246_Drive](https://github.com/user-attachments/assets/18fc7e14-6a94-4b96-ab79-d064ee5b3d15)
 
 ## TABULATION  
 <img width="839" height="1486" alt="image" src="https://github.com/user-attachments/assets/9a05685f-6614-42cf-8e3e-d6c92b5903d9" />
